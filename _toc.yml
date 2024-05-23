@@ -4,6 +4,18 @@ parts:
   - caption: Preamble
     chapters:
       - file: notebooks/how-to-cite
+<<<<<<< HEAD
   - caption: Radar Analysis
     chapters:
       - file: notebooks/COMBLE-MIP_test.ipynb
+=======
+  - caption: CAO Identification
+    chapters:
+      - file: notebooks/CAO_Identification
+  - caption: Cloud Comparisons
+    chapters:
+      - file: notebooks/cloud_comparison.ipynb
+  - caption: Wind/CAO Index Correlation
+    chapters:
+      - file: notebooks/wind-rose.ipynb
+>>>>>>> b46003b0a4d1ed0aa0f8428e5a39f5d1a3520d58

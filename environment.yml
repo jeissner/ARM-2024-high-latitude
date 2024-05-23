@@ -5,9 +5,18 @@ dependencies:
   - jupyter-book
   - jupyterlab
   - sphinx-pythia-theme
+<<<<<<< HEAD
   - xarray
   - arm_pyart
   - act-atmos
   - dask
   - dask-labextension
   - xradar
+=======
+  - act
+  - numpy
+  - xarray
+  - matplotlib.pyplot
+  - datetime.datetime
+  - pyart
+>>>>>>> b46003b0a4d1ed0aa0f8428e5a39f5d1a3520d58
